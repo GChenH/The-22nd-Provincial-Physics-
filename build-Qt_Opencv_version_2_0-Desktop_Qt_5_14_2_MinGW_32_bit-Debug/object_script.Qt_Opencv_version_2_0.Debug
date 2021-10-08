@@ -1,0 +1,15 @@
+debug/main.o
+debug/mainwindow.o
+debug/monochrome.o
+debug/multicolor.o
+debug/qcustomplot.o
+debug/Mat2Qimage.o
+debug/distance.o
+debug/low_pass.o
+debug/sum.o
+debug/transfer.o
+debug/qrc_res.o
+debug/moc_mainwindow.o
+debug/moc_monochrome.o
+debug/moc_multicolor.o
+debug/moc_qcustomplot.o
